@@ -5,6 +5,10 @@
 - [3. How do you remove elements from the end of an array?](#3-how-do-you-remove-elements-from-the-end-of-an-array)
 - [4. How do you remove elements from the beginning of an array?](#4-how-do-you-remove-elements-from-the-beginning-of-an-array)
 - [5. How do you add elements to the beginning of an array?](#5-how-do-you-add-elements-to-the-beginning-of-an-array)
+- [6. How do you access a specific element in an array?](#6-how-do-you-access-a-specific-element-in-an-array)
+- [7. How do you find the index of a specific element in an array?](#7-how-do-you-find-the-index-of-a-specific-element-in-an-array)
+- [8. How do you check if an element exists in an array?](#8-how-do-you-check-if-an-element-exists-in-an-array)
+- [9. How do you remove a specific element from an array by its index?](#9-how-do-you-remove-a-specific-element-from-an-array-by-its-index)
 
 
 
@@ -64,3 +68,19 @@ let array = [2, 3, 4];
 array.unshift(1);
 console.log(array); // Output: [1, 2, 3, 4]
 ``````
+
+
+### 6. How do you access a specific element in an array?
+
+
+
+
+### 7. How do you find the index of a specific element in an array?
+
+
+### 8. How do you check if an element exists in an array?
+
+
+### 9. How do you remove a specific element from an array by its index?
+
+
